@@ -1,0 +1,12 @@
+com\mycompany\modelos\PeliculaOMDB.class
+com\mycompany\modelos\Serie.class
+Excepciones\ErrorEnConversionException.class
+calculos\Clasificacion.class
+com\mycompany\modelos\Pelicula.class
+com\mycompany\modelos\Episodio.class
+com\mycompany\screenmatch\PrincipalConBusqueda.class
+calculos\FiltroRecomendaciones.class
+com\mycompany\screenmatch\PrincipalConListas.class
+calculos\CalculadoraTiempo.class
+com\mycompany\modelos\Titulo.class
+com\mycompany\screenmatch\Screenmatch.class
